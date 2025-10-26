@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kingsleyohio
 - 👀 I’m interested in self development to become a developer
-- 🌱 I’m currently learning RPA and Software Engineering
-- 💞️ I’m looking to collaborate on developing and deploying a software
+- 🌱 I’m currently learning Agentic AI and its application in solving environmental challenges
+- 💞️ I’m looking to collaborate on developing and deploying an agent for Energy solution
 - 📫 How to reach me kesezobo@gmail.com
 
 <!---
